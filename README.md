@@ -1,16 +1,21 @@
-### Hi there 👋
+# Profile
 
-<!--
-**njmaeff/njmaeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Public GitHub Stats
+[![Nik's Public GitHub stats](https://github-readme-stats.jmaeff.me/api?username=njmaeff&hide=stars)](https://github.com/njmaeff?tab=repositories)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Top Languages
+![Top Langs](https://github-readme-stats.jmaeff.me/api/top-langs/?username=njmaeff&layout=compact&hide=roff)
+
+
+### Coding Activity - 7 Days
+[![Nik's wakatime stats](https://github-readme-stats.jmaeff.me/api/wakatime?username=@njmaeff&layout=compact)](https://wakatime.com/@njmaeff)
+
+
+## Top Public Contributions
+
+[![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=facebook&repo=jest&show_owner=true)](https://github.com/facebook/jest/commits/master?author=njmaeff)
+
+[![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=yarnpkg&repo=berry&show_owner=true)](https://github.com/yarnpkg/berry/commits/master?author=njmaeff)
+
