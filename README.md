@@ -19,3 +19,5 @@
 
 [![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=yarnpkg&repo=berry&show_owner=true)](https://github.com/yarnpkg/berry/commits/master?author=njmaeff)
 
+[![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=odoo&repo=odoo&show_owner=true)](https://github.com/odoo/odoo/commits/13.0?author=njmaeff)
+
