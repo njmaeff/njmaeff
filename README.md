@@ -15,7 +15,7 @@
 
 ## Top Public Contributions
 
-[![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=facebook&repo=jest&show_owner=true)](https://github.com/facebook/jest/commits/master?author=njmaeff)
+[![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=facebook&repo=jest&show_owner=true)](https://github.com/facebook/jest/commits/main?author=njmaeff)
 
 [![Readme Card](https://github-readme-stats.jmaeff.me/api/pin/?username=yarnpkg&repo=berry&show_owner=true)](https://github.com/yarnpkg/berry/commits/master?author=njmaeff)
 
