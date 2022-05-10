@@ -14,6 +14,7 @@ I'd love an opportunity to discuss any open positions or hear any suggestions fo
 - [Recipe App](https://github.com/njmaeff/web-104-recipe-app)
 - [Notes App](https://github.com/njmaeff/web-104-notes-app)
 - [Spacetagram](https://github.com/njmaeff/spacetagram)
+- [Mini Apps](https://github.com/njmaeff/web-103-mini-apps)
 
 ### Tutorials
 
@@ -26,6 +27,9 @@ I'd love an opportunity to discuss any open positions or hear any suggestions fo
 - [Jest Demo](https://github.com/njmaeff/jest-demo)
 - [ESLint Demo](https://github.com/njmaeff/eslint-demo)
 
+### Work in Progress / Design
+
+- [web-104-final-project - Above and Beyond](https://github.com/njmaeff/web-104-final-project)
 
 ### Public GitHub Stats
 [![Nik's Public GitHub stats](https://github-readme-stats.jmaeff.me/api?username=njmaeff&hide=stars)](https://github.com/njmaeff?tab=repositories)
