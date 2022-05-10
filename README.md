@@ -6,19 +6,6 @@ I have a robust technical foundation supported by several years of work in IT. T
 
 I'd love an opportunity to discuss any open positions or hear any suggestions for getting my foot in the door. 
 
-
-### Public GitHub Stats
-[![Nik's Public GitHub stats](https://github-readme-stats.jmaeff.me/api?username=njmaeff&hide=stars)](https://github.com/njmaeff?tab=repositories)
-
-
-### Top Languages
-![Top Langs](https://github-readme-stats.jmaeff.me/api/top-langs/?username=njmaeff&layout=compact&hide=roff)
-
-
-### Coding Activity - 7 Days
-[![Nik's wakatime stats](https://github-readme-stats.jmaeff.me/api/wakatime?username=@njmaeff&layout=compact)](https://wakatime.com/@njmaeff)
-
-
 ### Portfolio Projects
 
 - [Blogging App](https://lab.jmaeff.ca/nik/portfolio/web-107-blog-app)
@@ -38,3 +25,15 @@ I'd love an opportunity to discuss any open positions or hear any suggestions fo
 - [Javascript Sytax Guide](https://github.com/njmaeff/web-103-javascript-syntax-guide)
 - [Jest Demo](https://github.com/njmaeff/jest-demo)
 - [ESLint Demo](https://github.com/njmaeff/eslint-demo)
+
+
+### Public GitHub Stats
+[![Nik's Public GitHub stats](https://github-readme-stats.jmaeff.me/api?username=njmaeff&hide=stars)](https://github.com/njmaeff?tab=repositories)
+
+
+### Top Languages
+![Top Langs](https://github-readme-stats.jmaeff.me/api/top-langs/?username=njmaeff&layout=compact&hide=roff)
+
+
+### Coding Activity - 7 Days
+[![Nik's wakatime stats](https://github-readme-stats.jmaeff.me/api/wakatime?username=@njmaeff&layout=compact)](https://wakatime.com/@njmaeff)
