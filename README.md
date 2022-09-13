@@ -14,6 +14,7 @@ I'd love an opportunity to discuss any open positions or hear any suggestions fo
 - [Recipe App](https://github.com/njmaeff/web-104-recipe-app)
 - [Notes App](https://github.com/njmaeff/web-104-notes-app)
 - [Spacetagram](https://github.com/njmaeff/spacetagram)
+- [Minventory](https://replit.com/@njmaeff/minventory)
 - [Mini Apps](https://github.com/njmaeff/web-103-mini-apps)
 
 ### Tutorials
