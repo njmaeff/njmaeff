@@ -1,10 +1,6 @@
 # Profile
 
-I'm Nik Jmaeff; it's a pleasure to meet you. I'm fresh out of school and motivated to join a Developer team. I am great at finding creative but realistic solutions and can also lead if needed. During my Full-Stack Developer Program, I was a peer tutor and even taught the class a few times. 
-
-I have a robust technical foundation supported by several years of work in IT. This foundation makes it easier for me to have technical conversations with other core teams, service integration, and debugging.
-
-I'd love an opportunity to discuss any open positions or hear any suggestions for getting my foot in the door. 
+I am a passionate learner and love new challenges. My favorite types of work include system design, software development, and software testing. I am also very comfortable working with cloud infrastructure such as Azure and AWS. Please reach out if you have a shared interest in technology or any exciting opportunities!
 
 ### Portfolio Projects
 
