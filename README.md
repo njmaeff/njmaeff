@@ -35,6 +35,3 @@ I am a passionate learner and love new challenges. My favorite types of work inc
 ### Top Languages
 ![Top Langs](https://github-readme-stats.jmaeff.me/api/top-langs/?username=njmaeff&layout=compact&hide=roff)
 
-
-### Coding Activity - 7 Days
-[![Nik's wakatime stats](https://github-readme-stats.jmaeff.me/api/wakatime?username=@njmaeff&layout=compact)](https://wakatime.com/@njmaeff)
