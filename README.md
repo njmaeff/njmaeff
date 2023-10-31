@@ -4,9 +4,7 @@ I am a passionate learner and love new challenges. My favorite types of work inc
 
 ### Portfolio Projects
 
-- [Blogging App](https://lab.jmaeff.ca/nik/portfolio/web-107-blog-app)
-- [Hotel Booking App](https://lab.jmaeff.ca/nik/portfolio/web-107-hotel-app)
-- [Tetris](https://lab.jmaeff.ca/nik/portfolio/web-103-final-project)
+- [Tetris](https://github.com/njmaeff/web-103-final-project)
 - [Recipe App](https://github.com/njmaeff/web-104-recipe-app)
 - [Notes App](https://github.com/njmaeff/web-104-notes-app)
 - [Spacetagram](https://github.com/njmaeff/spacetagram)
@@ -27,11 +25,4 @@ I am a passionate learner and love new challenges. My favorite types of work inc
 ### Work in Progress / Design
 
 - [web-104-final-project - Above and Beyond](https://github.com/njmaeff/web-104-final-project)
-
-### Public GitHub Stats
-[![Nik's Public GitHub stats](https://github-readme-stats.jmaeff.me/api?username=njmaeff&hide=stars)](https://github.com/njmaeff?tab=repositories)
-
-
-### Top Languages
-![Top Langs](https://github-readme-stats.jmaeff.me/api/top-langs/?username=njmaeff&layout=compact&hide=roff)
 
