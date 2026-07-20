@@ -1,28 +1,15 @@
-# Profile
+# Nik Jmaeff
 
-I am a passionate learner and love new challenges. My favorite types of work include system design, software development, and software testing. I am also very comfortable working with cloud infrastructure such as Azure and AWS. Please reach out if you have a shared interest in technology or any exciting opportunities!
+Systems & infrastructure engineer in Nelson, BC — public-sector IT by day,
+with an active agentic-AI practice: MCP server development, custom Claude
+Code skills and multi-repo agentic workflows, and OpenTelemetry-based LLM
+observability. Self-directed Kubernetes (MicroK8s, Helm, Pulumi), and a
+solo web studio on a TypeScript / Cloudflare Workers stack.
 
-### Portfolio Projects
+Most of that work lives in employer or private repos, so this profile is
+quieter than the practice behind it — I'm happy to talk through any of it.
 
-- [Tetris](https://github.com/njmaeff/web-103-final-project)
-- [Recipe App](https://github.com/njmaeff/web-104-recipe-app)
-- [Notes App](https://github.com/njmaeff/web-104-notes-app)
-- [Spacetagram](https://github.com/njmaeff/spacetagram)
-- [Minventory](https://replit.com/@njmaeff/minventory)
-- [Mini Apps](https://github.com/njmaeff/web-103-mini-apps)
+Earlier: full-stack developer certificate, Selkirk College (A+), and small
+open-source contributions to Jest and Yarn Berry.
 
-### Tutorials
-
-- [VSCode Development Containers](https://github.com/njmaeff/web-110-vscode-development-containers)
-- [Mongoose Tutorial](https://github.com/njmaeff/web-107-node-mongoose-tutorial)
-- [Javascript Modules](https://github.com/njmaeff/javascript-modules)
-- [MySQL Cheatsheet](https://github.com/njmaeff/web-108-sql-cheat-sheet)
-- [PHP Sytax Guide](https://github.com/njmaeff/web-107-php-syntax-guide)
-- [Javascript Sytax Guide](https://github.com/njmaeff/web-103-javascript-syntax-guide)
-- [Jest Demo](https://github.com/njmaeff/jest-demo)
-- [ESLint Demo](https://github.com/njmaeff/eslint-demo)
-
-### Work in Progress / Design
-
-- [web-104-final-project - Above and Beyond](https://github.com/njmaeff/web-104-final-project)
-
+📫 nik@jmaeff.ca · [LinkedIn](https://www.linkedin.com/in/nik-jmaeff)
