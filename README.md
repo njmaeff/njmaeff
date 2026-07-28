@@ -12,4 +12,4 @@ quieter than the practice behind it — I'm happy to talk through any of it.
 Earlier: full-stack developer certificate, Selkirk College (A+), and small
 open-source contributions to Jest and Yarn Berry.
 
-📫 nik@jmaeff.ca · [LinkedIn](https://www.linkedin.com/in/nik-jmaeff)
+📫 [LinkedIn](https://www.linkedin.com/in/nik-jmaeff) · [Website](https://www.jmaeff.ca/)
