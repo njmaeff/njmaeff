@@ -1,15 +1,27 @@
 # Nik Jmaeff
 
-Systems & infrastructure engineer in Nelson, BC — public-sector IT by day,
-with an active agentic-AI practice: MCP server development, custom Claude
-Code skills and multi-repo agentic workflows, and OpenTelemetry-based LLM
-observability. Self-directed Kubernetes (MicroK8s, Helm, Pulumi), and a
-solo web studio on a TypeScript / Cloudflare Workers stack.
+Systems Modernization: Cloud Migration and AI Agents.
+Based in British Columbia, Canada.
 
-Most of that work lives in employer or private repos, so this profile is
+I move and bridge on-premises systems to the cloud, and put AI agents to
+work on them. I work across infrastructure and software, so I design the
+path, build it, and own the outcome with the people who have to run it.
+Public-sector IT by day.
+
+- **Move and bridge** — on-premises systems to cloud services, with
+  legacy systems bridged to their replacements so teams move in stages
+  instead of a single cutover.
+- **Right platform for the workload** — Azure and Microsoft 365, AWS and
+  Cloudflare, chosen on cost, compliance and what the customer can
+  maintain.
+- **Agents on real systems** — AI agents and the MCP tools that let them
+  read and act on real systems, with a person approving anything that
+  matters. The assistant on my website is one you can try.
+- **Languages** — TypeScript and Python.
+
+Most of this work lives in employer or private repos, so this profile is
 quieter than the practice behind it — I'm happy to talk through any of it.
 
-Earlier: full-stack developer certificate, Selkirk College (A+), and small
-open-source contributions to Jest and Yarn Berry.
+Earlier: Full-Stack Developer certificate, Selkirk College (A+).
 
-📫 [LinkedIn](https://www.linkedin.com/in/nik-jmaeff) · [Website](https://www.jmaeff.ca/)
+[LinkedIn](https://www.linkedin.com/in/nik-jmaeff) · [Website](https://www.jmaeff.ca)
